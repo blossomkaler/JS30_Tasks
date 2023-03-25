@@ -1,0 +1,16 @@
+html, body {
+    margin: 0;
+    text-align: center;
+}
+
+#draw{
+    border: 2px solid black;
+    height: 75vh;
+    width: 90vw;
+}
+
+h1{
+    font-size: 5rem;
+    padding: 0;
+    margin: 1rem 0;
+}
